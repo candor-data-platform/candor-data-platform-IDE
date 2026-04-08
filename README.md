@@ -5,9 +5,12 @@ ________________________________________
 Candor Data Platform (CDP) is an intelligent code-generation IDE designed to automate and accelerate data warehousing and data engineering workflows.
 Instead of manually writing and debugging complex ETL pipelines, Candor enables teams to generate production-ready, reusable code instantly using AI-driven Vibe Coding and schema-aware automation.
 
-![Stars](https://img.shields.io/github/stars/owner/repo)
-![Pulls](https://img.shields.io/github/issues-pr/owner/repo)
-![License](https://img.shields.io/github/license/owner/repo)
+<p align="left">
+  <img src="https://img.shields.io/github/stars/candor-data-platform/candor-data-platform-IDE?style=for-the-badge&color=000000&label=STARS" />
+  <img src="https://img.shields.io/github/issues-pr/candor-data-platform/candor-data-platform-IDE?style=for-the-badge&color=4c1d95&label=PULLS" />
+  <img src="https://img.shields.io/github/license/candor-data-platform/candor-data-platform-IDE?style=for-the-badge&color=facc15&label=LICENSE" />
+  <img src="https://img.shields.io/badge/JOIN-THE%20COMMUNITY-purple?style=for-the-badge" />
+</p>
 ________________________________________
 ⚡ **Why Candor?**
 Data engineering today is:
