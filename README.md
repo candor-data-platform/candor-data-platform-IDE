@@ -41,6 +41,9 @@ STTM forms the core foundation for defining how data is mapped, transformed, and
 - Simplified and automated data workflows
 While STTM focuses on data mapping and transformation, Candor builds on it to deliver a more complete and user-friendly data platform.
 
+What is STTM? - [Refer](https://www.youtube.com/watch?v=J0fRCzUvl_0)
+
+
 ✨ **Key Features**  
 
 🧠 **Schema Mapping & Awareness**  
@@ -98,7 +101,7 @@ While STTM focuses on data mapping and transformation, Candor builds on it to de
 ________________________________________
 🏁 **Getting Started**  
 👉 Explore the platform: [Try](https://www.candorsys.com/)  
-👉 Watch demo & resources: [CandorSys](https://candorsys.com)  
+👉 Watch demo & resources: [CandorSys](https://www.youtube.com/watch?v=NWyguTPekxg) 
 
 💡 **Example Workflow**  
 1. Define source and target systems  
